@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+    <com.example.views.View_Velocity
+        android:id="@+id/view_vel"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/purple_845"/>
+
+    <com.example.views.View_Gesture
+        android:id="@+id/view_ges"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/cardview_dark_background"/>
+
+    <com.example.views.View_Gesture_Smooth_Vel
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/view_scroll">
+        <ImageView android:background="@color/purple_845"
+            android:src="@mipmap/ic_launcher"
+            android:layout_width="match_parent"
+            android:layout_height="500dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:background="#DDDD22"
+            android:src="@mipmap/ic_launcher" />
+    </com.example.views.View_Gesture_Smooth_Vel>
+</LinearLayout>

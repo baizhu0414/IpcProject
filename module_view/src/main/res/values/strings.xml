@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IPC_Module_View</string>
+    <string name="long_text">
+        Hello,this is a long text:
+        1朝鲜宣布与马来西亚断交 热473万
+        2人民日报评暂停网贷进校园457万
+        3中美对话现场:杨洁篪严正表态441万
+        4王毅说中美关系遭遇严重困难 新410万
+        5变异新毒株可逃避核检?专家回应396万
+        6多地公务员省考招录规模压缩382万
+    </string>
+</resources>
