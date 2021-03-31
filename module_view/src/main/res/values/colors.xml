@@ -4,4 +4,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#00774747</color>
+
+    <color name="colorFrontView">#7C737070</color>
+    <color name="colorBackView">#86D686</color>
+    <color name="colorFontRed">#FF0000</color>
 </resources>

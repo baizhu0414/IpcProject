@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/colorBackView">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+            <EditText
+                android:id="@+id/edt_scroll"
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:layout_height="wrap_content"
+                android:hint="@string/scroll_hint"
+                android:translationX="5dp"
+                android:translationZ="1dp"/>
+            <Button
+                android:id="@+id/btn_scroll"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:background="@color/colorBackground"
+                android:text="确认滚动"/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/tv_scrolltoby"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:background="@color/colorFrontView"
+            android:text="滚动字体"/>
+        <TextView
+            android:id="@+id/tv_anim"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Hello,java代码动画"
+            android:background="@color/colorFrontView"
+            android:textColor="@color/colorFontRed"/>
+
+        <Button
+            android:id="@+id/btn_layparams"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LayoutParams操作"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+</LinearLayout>

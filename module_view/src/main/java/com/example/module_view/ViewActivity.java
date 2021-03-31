@@ -7,6 +7,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.views.View_SmoothScroll;
 
+/**
+ * 测试VelocityTracker，GestureDetector和Scroller。
+ * */
 public class ViewActivity extends AppCompatActivity {
 
     public static String TAG = "ViewActivity";
