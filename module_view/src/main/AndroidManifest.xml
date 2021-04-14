@@ -4,4 +4,6 @@
     <!--此文件不实用，仅仅用来查看当前module有多少组件-->
     <activity android:name=".ViewActivity"></activity>
     <activity android:name=".ViewScrollActivity"></activity>
+    <activity android:name=".SimpleScrollActivity"></activity>
+    <activity android:name=".DecorationActivity"></activity>
 </manifest>

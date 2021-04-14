@@ -3,4 +3,6 @@
     package="com.example.module_view">
     <activity android:name=".ViewActivity"></activity>
     <activity android:name=".ViewScrollActivity"></activity>
+    <activity android:name=".SimpleScrollActivity"></activity>
+    <activity android:name=".DecorationActivity"></activity>
 </manifest>
