@@ -5,4 +5,5 @@
     <activity android:name=".ViewScrollActivity"></activity>
     <activity android:name=".SimpleScrollActivity"></activity>
     <activity android:name=".DecorationActivity"></activity>
+    <activity android:name=".ExpandableActivity"></activity>
 </manifest>
