@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_common/IpcProject.module_common.iml" filepath="$PROJECT_DIR$/.idea/modules/module_common/IpcProject.module_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_home/IpcProject.module_home.iml" filepath="$PROJECT_DIR$/.idea/modules/module_home/IpcProject.module_home.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_matisse/IpcProject.module_matisse.iml" filepath="$PROJECT_DIR$/.idea/modules/module_matisse/IpcProject.module_matisse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_share/IpcProject.module_share.iml" filepath="$PROJECT_DIR$/.idea/modules/module_share/IpcProject.module_share.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_view/IpcProject.module_view.iml" filepath="$PROJECT_DIR$/.idea/modules/module_view/IpcProject.module_view.iml" />
     </modules>
   </component>

@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/module_common" />
             <option value="$PROJECT_DIR$/module_home" />
             <option value="$PROJECT_DIR$/module_matisse" />
+            <option value="$PROJECT_DIR$/module_share" />
             <option value="$PROJECT_DIR$/module_view" />
           </set>
         </option>
